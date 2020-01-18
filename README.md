@@ -1,0 +1,2 @@
+# JavaEEgit
+ Training projects
