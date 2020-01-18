@@ -1,2 +1,2 @@
 # JavaEEgit
- Training projects
+ Training projects first init
